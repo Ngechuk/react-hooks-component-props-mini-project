@@ -3,7 +3,7 @@ import React from 'react';
 function Header(props) {
   return (
     <header>
-      <H1>{props.blogName}</H1>
+      <h1>{props.blogName}</h1>
     </header>
   );
 }
